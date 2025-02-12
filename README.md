@@ -41,7 +41,7 @@ Message Brokers: <br>
 <br>
 
 Deployment: <br>
-`Docker` `CI` `CD`
+`Docker` `CI` `CD` `Github Actions`
 
 <br>
 
@@ -59,10 +59,13 @@ Libraries: <br>
 
 ## Infrastructure
 
+Arch
+`Kubernetes`
+
 
 Languages: <br>
 `Terraform` `Pulumi`
 
 
 AWS: <br>
-`ECS` `AWS Lambda` `Api Gateway` `SSM`
+`EC2` `EKS` `ECS` `AWS Lambda` `Api Gateway` `SSM` 
